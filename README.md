@@ -12,7 +12,7 @@ Jupyter notebook for the article: "Can you do better? Sampling strategies with a
 
 https://medium.com/@aliaksei.mikhailiuk/can-you-do-better-sampling-strategies-with-an-emphasis-on-gibbs-sampling-practicals-and-code-c97730d54ebc
 
-3) Mixing.ipynb
+3) Dataset-fusion.ipynb
 
 Jupyter notebook for the article: "Dataset fusion for preference aggregation: what do sushi, age and image quality have in common?"
 
