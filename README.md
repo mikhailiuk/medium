@@ -18,3 +18,7 @@ Jupyter notebook for the article: "Dataset fusion for preference aggregation: wh
 
 https://medium.com/@aliaksei.mikhailiuk/dataset-fusion-sushi-age-and-image-quality-and-what-the-hell-do-they-have-in-common-814e8dae7cf7
 
+4) Bayesian Optimization
+
+Jupyter notebook for the article: ""
+
