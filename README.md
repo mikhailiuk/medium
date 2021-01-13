@@ -2,6 +2,12 @@
 
 This is a repository for the code associated with articles on Medium:
 
+## bayesian_optimization.ipynb
+
+Jupyter notebook for the article: "Bayesian optimization or how I carved boats from wood. Examples and code."
+
+https://mikhailiuk.medium.com/bayesian-optimization-or-how-i-carved-boats-from-wood-examples-and-code-78b9c79b31e5
+
 ## Bootstrap-resampling.ipynb
 
 Jupyter notebook for the article: "Confidence intervals: parametric and non-parametric resampling"
