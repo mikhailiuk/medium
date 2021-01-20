@@ -2,6 +2,9 @@
 
 This is a repository for the code associated with articles on Medium:
 
+
+
+
 ## Bootstrap-resampling.ipynb
 
 Jupyter notebook for the article: "Confidence intervals: parametric and non-parametric resampling"
@@ -20,7 +23,9 @@ Jupyter notebook for the article: "Dataset fusion for preference aggregation: wh
 
 https://medium.com/@aliaksei.mikhailiuk/dataset-fusion-sushi-age-and-image-quality-and-what-the-hell-do-they-have-in-common-814e8dae7cf7
 
-## Bayesian Optimization
+## bayesian_optimization.ipynb
 
-Jupyter notebook for the article: ""
+Jupyter notebook for the article: "Bayesian optimization or how I carved boats from wood. Examples and code."
+
+https://mikhailiuk.medium.com/bayesian-optimization-or-how-i-carved-boats-from-wood-examples-and-code-78b9c79b31e5
 
